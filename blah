@@ -17,12 +17,12 @@ do
 	end
 
 	Library = {
-		Accent = Color3.fromRGB(178, 102, 255);
+		Accent = Color3.fromRGB(0, 128, 255);
 		Inline = Color3.fromRGB(76, 0, 153);
-		Background = Color3.fromRGB(51, 0, 102);
-		Text = Color3.fromRGB(204, 153, 255);
+		Background = Color3.fromRGB(178, 102, 255);
+		Text = Color3.fromRGB(0, 128, 255);
 		TextInactive = Color3.fromRGB(135,135,135);
-		Border = Color3.fromRGB(89, 43, 117);
+		Border = Color3.fromRGB(0, 128, 255);
 		Risky = Color3.fromRGB(255,0,0);
 
 		FolderName = "Fishy";
